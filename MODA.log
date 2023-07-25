@@ -1,0 +1,4 @@
+Línea 45: la clase MSFlexGridLib.MSFlexGrid del control MSFlexGrid2 no era una clase de control cargada.
+Línea 51: el nombre de la propiedad _ExtentX de MSFlexGrid2 no es válido.
+Línea 52: el nombre de la propiedad _ExtentY de MSFlexGrid2 no es válido.
+Línea 53: el nombre de la propiedad _Version de MSFlexGrid2 no es válido.
